@@ -16,7 +16,7 @@ This is a fully fledged 2 player tic-tac-toe game written in JavaScript, HTML an
 
 -Shows you who won or if it's a draw
 
--Refresh page to restart game
+-Restart Game Option
 
 -Navbar with version, link for releases and for sources
 
